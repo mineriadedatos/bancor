@@ -1,0 +1,47 @@
+[
+  {
+    "Sexo": "Femenino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Administrativo",
+    "Nivel estudio": "Secundaria",
+    "Edad": 25,
+    "Antiguedad ultimo trabajo": 3,
+    "Ingreso mes": 2798
+  },
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Servicio al cliente",
+    "Nivel estudio": "Técnico",
+    "Edad": 40,
+    "Antiguedad ultimo trabajo": 4,
+    "Ingreso mes": 4327
+  },
+  {
+    "Sexo": "Femenino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Administrativo",
+    "Nivel estudio": "Doctor",
+    "Edad": 54,
+    "Antiguedad ultimo trabajo": 11,
+    "Ingreso mes": 7661
+  },
+  {
+    "Sexo": "Femenino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Producción",
+    "Nivel estudio": "Bachiller",
+    "Edad": 32,
+    "Antiguedad ultimo trabajo": 4,
+    "Ingreso mes": 5804
+  },
+  {
+    "Sexo": "Masculino",
+    "Trabajo dependiente": "Sí",
+    "Funcion principal": "Freelance",
+    "Nivel estudio": "Magíster",
+    "Edad": 44,
+    "Antiguedad ultimo trabajo": 6,
+    "Ingreso mes": 5007
+  }
+]
